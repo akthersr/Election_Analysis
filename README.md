@@ -62,7 +62,7 @@ The analysis of the election show that:
    
    The output from a command line in VS Code:
    
-   ![]()
+   ![](https://github.com/akthersr/Election_Analysis/blob/main/Screenshot%20(206).png)
    
 # Election-Audit Summary:
 
