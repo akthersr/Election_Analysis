@@ -27,23 +27,23 @@ The analysis of the election show that:
 
  2. The candidates were:
 
-  -Candidate 1
+    Candidate 1
 
-  -Candidate 2
+    Candidate 2
 
-  -Candidate 3
+    Candidate 3
 
 3. The Candidate results were:
 
-  -Candidate 1 received "x%" of the vote and "y" number of votes.
+   Candidate 1 received "x%" of the vote and "y" number of votes.
 
-  -Candidate 2 received "x%" of the vote and "y" number of votes.
+   Candidate 2 received "x%" of the vote and "y" number of votes.
 
-  -Candidate 3 received "x%" of the vote and "y" number of votes.
+   Candidate 3 received "x%" of the vote and "y" number of votes.
 
 4. The winner of the election was:
 
-  -Candidate (1,2 or 3), who received "x%" of the vote and "y" number of votes.
+   Candidate (1,2 or 3), who received "x%" of the vote and "y" number of votes.
 
 
 # Challenge Overview
